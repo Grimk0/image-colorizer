@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Output and checkpoints
+colorization_outputs/
+*.ckpt
+*.h5
+
+# Dataset and large files
+data/
+
+# OS files
+.DS_Store
+
+# Editor swap files
+*.swp
+
+# Jupyter notebook checkpoints (if you add notebooks later)
+.ipynb_checkpoints/

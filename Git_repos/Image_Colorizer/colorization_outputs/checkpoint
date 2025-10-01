@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Ayub\\Python lessons\\colorization_outputs\\best_model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Ayub\\Python lessons\\colorization_outputs\\best_model.ckpt"
